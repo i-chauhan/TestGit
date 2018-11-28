@@ -2,4 +2,8 @@ This is my first text file to be uploaded to GIT.
 This is my first text file to be uploaded to GIT.
 This is my first text file to be uploaded to GIT.
 This is my first text file to be uploaded to GIT.
+<<<<<<< HEAD
+=======
+This is my first text file to be uploaded to GIT.
+>>>>>>> af681bf9af0ad76d3137d8016807653e1b4b7f83
 This is my first text file to be uploaded to GIT.
